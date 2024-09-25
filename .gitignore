@@ -1,0 +1,12 @@
+# Ignorar archivos de R
+.Rhistory
+.RData
+.Rproj.user/
+.Rproj
+
+# Ignorar archivos de configuración de RStudio
+.Rproj.user/
+
+# Ignorar otros archivos que no sean necesarios
+*.csv
+*.xlsx
